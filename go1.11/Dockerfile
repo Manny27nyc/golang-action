@@ -1,4 +1,4 @@
-FROM golang:1.11
+FROM golang:1.16.14
 
 LABEL name="Golang Action"
 LABEL maintainer="Cedric Kring"
