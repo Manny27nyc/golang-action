@@ -1,4 +1,4 @@
-FROM golang:1.15
+FROM golang:bullseye
 
 LABEL name="Golang Action"
 LABEL maintainer="Cedric Kring"
