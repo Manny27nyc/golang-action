@@ -1,4 +1,4 @@
-FROM golang:1.13
+FROM golang:bookworm
 
 LABEL name="Golang Action"
 LABEL maintainer="Cedric Kring"
